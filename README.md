@@ -1,2 +1,2 @@
-# GAU-Java
+# GAU
 Giorgi Poladauri GAU Java Programming files
